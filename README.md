@@ -27,3 +27,6 @@ Webcam access works on `localhost` during development. For deployment, use HTTPS
 - Graceful camera-denied state
 
 The MediaPipe WASM runtime and model are loaded from public CDNs, so the first launch requires internet access.
+
+🦋 I made something for you. Open this ❤️
+https://butterfly-snowy-ten.vercel.app
